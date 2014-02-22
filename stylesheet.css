@@ -1,0 +1,137 @@
+
+body{
+
+	//background-image:url("http://en.clipdealer.com/preview/image/001/568/961/previews/10--1568961-stars%20on%20yellow%20background%20loop.jpg");
+	//background-image:url("http://www.wallgaper.com/wp-content/uploads/2013/09/Purple-Flowers-Photos-119.jpg");
+	//background-image:url("http://www.wallpick.com/wp-content/uploads/2014/02/16/Abstract-Purple-Background-Wallpaper-HD.jpg");
+	//background-image:url("http://www.graphicpanic.com/images/mosaic-purple-background.jpg");
+	background-image:url("http://www.desktopict.com/wp-content/uploads/2014/02/dark-hd-wallpapers-10.jpg");
+	background-repeat:repeat;
+	//background-attachment:fixed;
+	//background-color:#b0c4de;
+}
+
+
+
+#up{
+#header {
+	
+	z-index: 1;
+	width: 50%;
+	margin-top: -20px;
+	height: 50px;
+	background-color: #668284;
+	margin-bottom: 10px;
+}
+
+#name {
+	float:left;
+	margin-left: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+#page{
+	float:right;
+	margin-top: 30px;
+	margin-right: 5px;
+	padding-top: 5px;
+	font-size: 10px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+#icon{
+	float:center;
+	margin-top: 35px;
+	margin-right: 5px;
+	padding-top: 5px;
+}
+
+}
+#menu{
+	text-decoration:none;
+}
+
+
+/*#header {
+	z-index: 1;
+	position: fixed;
+	width: 97.5%;
+	margin-top:0px;
+	height: 60px;
+	background-color: #B9D7D9;
+	margin-bottom: 0px;
+}*/
+
+a{
+	text-decoration:none;
+}
+.title:hover {
+	color: red;
+	font-weight: bold;
+	text-decoration: none;
+	
+}
+
+.left {
+	border-radius:14px;
+	overflow:scroll;
+	border-style:solid;
+	border-color:#f88017;
+	border-width:3px;
+	margin-top: 50px;
+	margin-left:20px;
+	width: 45%;
+	height: 500px;
+	background-color:#f9f5d2;
+	margin-bottom: 10px;
+	float: left;
+}
+
+.right {
+	border-radius:10px;
+	overflow:scroll;
+	border-style:solid;
+        border-color:#f88017;
+	border-width:3px;
+	margin-right:20px;
+	margin-top: 50px;
+	width: 45%;
+	height: 500px;
+	background-color: #f9f5d2;
+	margin-bottom: 10px;
+	float: right;
+}
+
+/*#footer {
+	position: relative;
+	height: 50px;
+	background-color: #668284;
+	clear: both;
+	font-family: Verdana, sans-serif;
+	font-size: 14px;
+	text-align: center;
+	color: #ffffff;
+}*/
+article p {
+    font-size: 1em;
+    background-color: #ccc;
+    margin-top:0px;
+    border-radius:14px;
+    margin-bottom:0px;
+    margin-right:50px;
+    margin-left:125px;
+    padding: 10px;
+border-color: #66FFCC;
+border-width:5px;	
+border-style:ridge;
+}
+
+#name{
+	font-family: fantasy;
+	font-size:2em;
+	font-weight:bold;
+}
